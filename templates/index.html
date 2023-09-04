@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<!-- Created By CodingLab - www.codinglabweb.com -->
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8">
+    <title> Json Generator </title>
+    <link rel="stylesheet" type="text/css" href="../static/style.css">
+    <!-- Fontawesome CDN Link -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   </head>
+<body>
+  <div class="container">
+    <div class="content">
+      <div class="right-side">
+        <div class="topic-text">Json Generator</div>
+        <p>
+            This web application helps generate a json file includes attributes needed for audio 
+            source and visual indicator objects in the Sound Localization project.
+        </p>
+      <form action="/generate_json" method="POST">
+        <div class="container">   
+            <div>
+                <p>
+                    Enter the number of audio sources:
+                </p>
+            </div>
+            <div class="input-box">
+                <input type="number" name="num_audio_sources" placeholder="Example: 8">
+            </div>
+
+            <div>
+                <p>
+                    Enter the distance between the user and the audio sources:
+                </p>
+            </div>
+            <div class="input-box">
+                <input type="number" name="visual_distance" placeholder="Example: 2">
+            </div>
+
+            <div>
+                <p>
+                    Enter the vertical rotation angle of the visual indicators:
+                </p>
+            </div>
+            <div class="input-box">
+                <input type="number" name="visual_vertical_rotation" placeholder="Example: 30">
+            </div>
+
+            <div>
+                <p>
+                    Enter the horizontal rotation angle interval of the visual indicators:
+                </p>
+            </div>
+            <div class="input-box">
+                <input type="number" name="visual_horizontal_interval" placeholder="Example: 45">
+            </div>
+        </div>
+        <div class="button">
+          <input type="submit" value="Generate JSON file" >
+        </div>
+      </form>
+    </div>
+    </div>
+  </div>
+</body>
+</html>

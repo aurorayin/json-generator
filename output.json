@@ -1,0 +1,166 @@
+{
+    "AudioOrigins": [
+        {
+            "distance": 2.0,
+            "horizontalRotation": 135,
+            "verticalRotation": -30,
+            "frequency": 500,
+            "name": "audio-low-135-30"
+        },
+        {
+            "distance": 2.0,
+            "horizontalRotation": 135,
+            "verticalRotation": -30,
+            "frequency": 2500,
+            "name": "audio-high-135-30"
+        },
+        {
+            "distance": 2.0,
+            "horizontalRotation": 135,
+            "verticalRotation": -30,
+            "frequency": 500,
+            "name": "audio-low-135-30"
+        },
+        {
+            "distance": 2.0,
+            "horizontalRotation": 135,
+            "verticalRotation": -30,
+            "frequency": 2500,
+            "name": "audio-high-135-30"
+        },
+        {
+            "distance": 2.0,
+            "horizontalRotation": 90,
+            "verticalRotation": -30,
+            "frequency": 500,
+            "name": "audio-low-90-30"
+        },
+        {
+            "distance": 2.0,
+            "horizontalRotation": 90,
+            "verticalRotation": -30,
+            "frequency": 2500,
+            "name": "audio-high-90-30"
+        },
+        {
+            "distance": 2.0,
+            "horizontalRotation": 270,
+            "verticalRotation": -30,
+            "frequency": 500,
+            "name": "audio-low-270-30"
+        },
+        {
+            "distance": 2.0,
+            "horizontalRotation": 270,
+            "verticalRotation": -30,
+            "frequency": 2500,
+            "name": "audio-high-270-30"
+        },
+        {
+            "distance": 2.0,
+            "horizontalRotation": 180,
+            "verticalRotation": -30,
+            "frequency": 500,
+            "name": "audio-low-180-30"
+        },
+        {
+            "distance": 2.0,
+            "horizontalRotation": 180,
+            "verticalRotation": -30,
+            "frequency": 2500,
+            "name": "audio-high-180-30"
+        },
+        {
+            "distance": 2.0,
+            "horizontalRotation": 315,
+            "verticalRotation": -30,
+            "frequency": 500,
+            "name": "audio-low-315-30"
+        },
+        {
+            "distance": 2.0,
+            "horizontalRotation": 315,
+            "verticalRotation": -30,
+            "frequency": 2500,
+            "name": "audio-high-315-30"
+        },
+        {
+            "distance": 2.0,
+            "horizontalRotation": 180,
+            "verticalRotation": -30,
+            "frequency": 500,
+            "name": "audio-low-180-30"
+        },
+        {
+            "distance": 2.0,
+            "horizontalRotation": 180,
+            "verticalRotation": -30,
+            "frequency": 2500,
+            "name": "audio-high-180-30"
+        },
+        {
+            "distance": 2.0,
+            "horizontalRotation": 135,
+            "verticalRotation": -30,
+            "frequency": 500,
+            "name": "audio-low-135-30"
+        },
+        {
+            "distance": 2.0,
+            "horizontalRotation": 135,
+            "verticalRotation": -30,
+            "frequency": 2500,
+            "name": "audio-high-135-30"
+        }
+    ],
+    "VisualSources": [
+        {
+            "distance": 2.0,
+            "horizontalRotation": 0,
+            "verticalRotation": -30,
+            "name": "visual-00-30"
+        },
+        {
+            "distance": 2.0,
+            "horizontalRotation": 45,
+            "verticalRotation": -30,
+            "name": "visual-45-30"
+        },
+        {
+            "distance": 2.0,
+            "horizontalRotation": 90,
+            "verticalRotation": -30,
+            "name": "visual-90-30"
+        },
+        {
+            "distance": 2.0,
+            "horizontalRotation": 135,
+            "verticalRotation": -30,
+            "name": "visual-135-30"
+        },
+        {
+            "distance": 2.0,
+            "horizontalRotation": 180,
+            "verticalRotation": -30,
+            "name": "visual-180-30"
+        },
+        {
+            "distance": 2.0,
+            "horizontalRotation": 225,
+            "verticalRotation": -30,
+            "name": "visual-225-30"
+        },
+        {
+            "distance": 2.0,
+            "horizontalRotation": 270,
+            "verticalRotation": -30,
+            "name": "visual-270-30"
+        },
+        {
+            "distance": 2.0,
+            "horizontalRotation": 315,
+            "verticalRotation": -30,
+            "name": "visual-315-30"
+        }
+    ]
+}
