@@ -2,73 +2,31 @@
     "AudioOrigins": [
         {
             "distance": 2.0,
-            "horizontalRotation": 315,
+            "horizontalRotation": 270,
             "verticalRotation": -30,
             "frequency": 500,
-            "name": "audio-low-315-30"
+            "name": "audio-low-270-30"
         },
         {
             "distance": 2.0,
-            "horizontalRotation": 315,
+            "horizontalRotation": 270,
             "verticalRotation": -30,
             "frequency": 2500,
-            "name": "audio-high-315-30"
+            "name": "audio-high-270-30"
         },
         {
             "distance": 2.0,
-            "horizontalRotation": 315,
+            "horizontalRotation": 45,
             "verticalRotation": -30,
             "frequency": 500,
-            "name": "audio-low-315-30"
+            "name": "audio-low-45-30"
         },
         {
             "distance": 2.0,
-            "horizontalRotation": 315,
+            "horizontalRotation": 45,
             "verticalRotation": -30,
             "frequency": 2500,
-            "name": "audio-high-315-30"
-        },
-        {
-            "distance": 2.0,
-            "horizontalRotation": 135,
-            "verticalRotation": -30,
-            "frequency": 500,
-            "name": "audio-low-135-30"
-        },
-        {
-            "distance": 2.0,
-            "horizontalRotation": 135,
-            "verticalRotation": -30,
-            "frequency": 2500,
-            "name": "audio-high-135-30"
-        },
-        {
-            "distance": 2.0,
-            "horizontalRotation": 0,
-            "verticalRotation": -30,
-            "frequency": 500,
-            "name": "audio-low-00-30"
-        },
-        {
-            "distance": 2.0,
-            "horizontalRotation": 0,
-            "verticalRotation": -30,
-            "frequency": 2500,
-            "name": "audio-high-00-30"
-        },
-        {
-            "distance": 2.0,
-            "horizontalRotation": 0,
-            "verticalRotation": -30,
-            "frequency": 500,
-            "name": "audio-low-00-30"
-        },
-        {
-            "distance": 2.0,
-            "horizontalRotation": 0,
-            "verticalRotation": -30,
-            "frequency": 2500,
-            "name": "audio-high-00-30"
+            "name": "audio-high-45-30"
         },
         {
             "distance": 2.0,
@@ -86,17 +44,17 @@
         },
         {
             "distance": 2.0,
-            "horizontalRotation": 315,
+            "horizontalRotation": 0,
             "verticalRotation": -30,
             "frequency": 500,
-            "name": "audio-low-315-30"
+            "name": "audio-low-00-30"
         },
         {
             "distance": 2.0,
-            "horizontalRotation": 315,
+            "horizontalRotation": 0,
             "verticalRotation": -30,
             "frequency": 2500,
-            "name": "audio-high-315-30"
+            "name": "audio-high-00-30"
         },
         {
             "distance": 2.0,
@@ -111,6 +69,48 @@
             "verticalRotation": -30,
             "frequency": 2500,
             "name": "audio-high-45-30"
+        },
+        {
+            "distance": 2.0,
+            "horizontalRotation": 0,
+            "verticalRotation": -30,
+            "frequency": 500,
+            "name": "audio-low-00-30"
+        },
+        {
+            "distance": 2.0,
+            "horizontalRotation": 0,
+            "verticalRotation": -30,
+            "frequency": 2500,
+            "name": "audio-high-00-30"
+        },
+        {
+            "distance": 2.0,
+            "horizontalRotation": 45,
+            "verticalRotation": -30,
+            "frequency": 500,
+            "name": "audio-low-45-30"
+        },
+        {
+            "distance": 2.0,
+            "horizontalRotation": 45,
+            "verticalRotation": -30,
+            "frequency": 2500,
+            "name": "audio-high-45-30"
+        },
+        {
+            "distance": 2.0,
+            "horizontalRotation": 225,
+            "verticalRotation": -30,
+            "frequency": 500,
+            "name": "audio-low-225-30"
+        },
+        {
+            "distance": 2.0,
+            "horizontalRotation": 225,
+            "verticalRotation": -30,
+            "frequency": 2500,
+            "name": "audio-high-225-30"
         }
     ],
     "VisualSources": [
